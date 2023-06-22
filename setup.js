@@ -110,7 +110,7 @@ function con3(){
         setTimeout(function() {
           heading('Installed GWS 3 with Java on servers');
           base('installed');
-        }10001);
+        }, 10001);
       }
       
     }
